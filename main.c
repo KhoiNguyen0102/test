@@ -6,5 +6,6 @@ void bodySnake();
 
 int main() {
 	printf("hello world");
+	printf("Hello khoi");
 	return 0;
 }
